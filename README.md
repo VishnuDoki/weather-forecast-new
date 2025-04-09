@@ -47,4 +47,3 @@ To use the Weather App, simply enter the name of the city in the search bar and 
 `
 Note :- For Best Experience See This Website on 400*860 
 `
-# weather-forecast-new
